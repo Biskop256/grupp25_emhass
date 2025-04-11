@@ -1,0 +1,9 @@
+# ---> Python
+
+# Byte-compiled / optimized / DLL files
+emhass/__pycache__/
+emhass/.devcontainer.json
+emhass/.vscode/*
+emhass/dist/*
+*.py[cod]
+*$py.class

@@ -8,7 +8,7 @@ arch:
   - amd64
   # - armhf
   # - armv7
-image: "ghcr.io/biskop256/grupp25_emhass" #set if use image container repository
+image: "ghcr.io/biskop256/grupp25_emhass:latest" #set if use image container repository
 ports:
   5000/tcp: 5000
 ports_description:

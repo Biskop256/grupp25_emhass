@@ -1,7 +1,7 @@
 name: EMHASS-remix
 description: Energy Management for Home Assistant
 url: https://github.com/Biskop256/emhass-test
-version: latest@sha256:6bf753a4d992b8d112937bf5f40ea32776080eddc9222afb105422bc071a8c40 #set if use image container version
+version: latest@sha256:86f9eaabdbafa4af6c996fb677e42e1e082bbed53be2754b5b6b3cc67b3d7bce #set if use image container version
 slug: emhass
 arch:
   - aarch64
